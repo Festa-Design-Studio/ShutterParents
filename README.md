@@ -4,22 +4,6 @@ description: >-
   communication approach, rules and use of her powerful visual identity that
   will bring her brand stories to life.
 cover: .gitbook/assets/shutterParents-1.jpg
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
 
 # ShutterParents
 
