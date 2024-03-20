@@ -1,9 +1,6 @@
----
-description: >-
-  This is ShutterParents brand identity guidelines. It explains the brand’s
-  communication approach, rules and use of her powerful visual identity that
-  will bring her brand stories to life.
-cover: .gitbook/assets/shutterParents-1.jpg
+This is ShutterParents brand identity guidelines. It explains the brand’s
+communication approach, rules and use of her powerful visual identity that
+will bring her brand stories to life.
 
 # ShutterParents
 
