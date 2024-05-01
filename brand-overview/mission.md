@@ -5,6 +5,20 @@ description: >-
   connect in our supportive community.
 cover: ../.gitbook/assets/intro-banner-5.png
 coverY: -24
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Mission
