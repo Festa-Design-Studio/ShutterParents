@@ -3,6 +3,8 @@ description: >-
   A premier online photography learning platform, is on a mission to transform
   parents and their children into confident photographers. Learn, create, and
   connect in our supportive community.
+cover: ../.gitbook/assets/intro-banner-5.png
+coverY: -24
 ---
 
 # Mission

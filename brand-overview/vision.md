@@ -3,6 +3,8 @@ description: >-
   Envisioning a world where every parent is a skilled photographer,
   ShutterParents strives to make photography accessible and enjoyable. Discover
   courses tailored for parental photography.
+cover: ../.gitbook/assets/leaflet-design--shutterparents-2.jpg
+coverY: 0
 ---
 
 # Vision
