@@ -23,8 +23,7 @@
 
 ## 📌 Color
 
-* [Primary Colors](color/primary-colors.md)
-* [Secondary Colors](color/secondary-colors.md)
+* [Colors](color/primary-colors.md)
 * [Tints & Shades](color/tints-and-shades.md)
 * [Color Combinations](color/color-combinations.md)
 * [Misuse](color/misuse.md)
